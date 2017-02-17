@@ -1,7 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nisl diam, dapibus quis posuere et, dignissim vitae mi. Nam ac neque at
-tellus aliquam fermentum sit amet in nisl. Vestibulum ut velit vel massa tincidunt maximus. Donec tempor suscipit dui, eget tincidunt 
-dui euismod nec. Quisque ut dolor erat. Morbi sollicitudin nibh nec neque placerat, quis ornare lectus efficitur. Etiam id odio quis 
-risus egestas consequat a id urna. Integer bibendum posuere purus. Praesent nulla urna, hendrerit in turpis vel, venenatis sollicitudin 
-metus. Aliquam lacinia felis nisi, at pretium lacus venenatis non. Aliquam congue in ligula sed placerat. Maecenas condimentum dolor at 
-odio auctor pellentesque. Nullam hendrerit metus eu nisl consequat tempus. Duis pharetra, tortor pulvinar aliquam tristique, nulla odio 
-euismod diam, a condimentum leo arcu ut nisi. Aliquam scelerisque nunc dui, eget rutrum tortor condimentum at. Curabitur ac leo diam.
